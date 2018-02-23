@@ -1,2 +1,2 @@
-# P8---SurveyAppAndroid---Test
+# P8---SurveyAppAndroid
 Android version of SurveyApp

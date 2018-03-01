@@ -27,8 +27,7 @@ exec 1>&2
 
 exec java -jar $CONFIG_JAR -c $CONFIG_CHECK_FILE SurveyAppAndroid/app/src/main/java/
 echo $?
-echo " "
-echo " "
+echo "DUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUR"
 
 # Cross platform projects tend to avoid non-ASCII filenames; prevent
 # them from being added to the repository. We exploit the fact that the

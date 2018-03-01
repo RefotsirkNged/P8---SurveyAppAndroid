@@ -23,7 +23,7 @@ fi
 allownonascii=$(git config --bool hooks.allownonascii)
 
 # Redirect output to stderr.
-exec 1>&2
+# exec 1>&2
 
 exec java -jar $CONFIG_JAR -c $CONFIG_CHECK_FILE SurveyAppAndroid/app/src/main/java/
 echo $?
